@@ -3,7 +3,7 @@
 <!--
 **DineshikaSivapalaraja/DineshikaSivapalaraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  -->
 
 - 🔭 I’m currently working as a full-time undergraduate.
 - 🌱 I’m currently learning BSc(Hons) Software Engineering
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
                       https://medium.com/@dinraja17
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a lazy girl
--->
+
