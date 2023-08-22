@@ -9,8 +9,7 @@ Here are some ideas to get you started:  -->
 - 🌱 I’m currently learning BSc(Hons) Software Engineering
 - 👯 I’m looking to collaborate on web-related projects and mobile app-related projects.
 - 💬 I am a passionate learner and like to learn new things frequently.
-- 📫 How to reach me: www.linkedin.com/in/dineshika-sivapalaraja-b05172233
-                      https://medium.com/@dinraja17
+- 📫 You can reach me on  www.linkedin.com/in/dineshika-sivapalaraja-b05172233     or    https://medium.com/@dinraja17
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a lazy girl
 
