@@ -34,10 +34,10 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dineshika_s6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshika_s6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dineshika-sivapalaraja-b05172233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dineshika-sivapalaraja-b05172233" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sdineshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sdineshika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dineshika-sivapalaraja-b05172233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshika-sivapalaraja-b05172233" height="30" width="40" /></a>
+<a href="https://kaggle.com/sdineshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sdineshika" height="30" width="40" /></a>
 <a href="https://medium.com/@dinraja17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dinraja17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/99dinuraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/99dinuraja" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/99dinuraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="99dinuraja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
