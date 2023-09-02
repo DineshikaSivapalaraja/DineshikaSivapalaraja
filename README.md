@@ -15,19 +15,13 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 <h1 align="center">Hi 👋, I'm Dineshika</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshikasivapalaraja" alt="dineshikasivapalaraja" /></a> </p>
-
 - 🌱 I’m currently learning **Java, JavaScript, React and Springboot boot**
 
 - 👨‍💻 Check my portfolio on [https://dineshikasivapalaraja.github.io/My_Portfolio/](https://dineshikasivapalaraja.github.io/My_Portfolio/)
 
-- 📝 I write articles on [https://medium.com/@dinraja17](https://medium.com/@dinraja17)
-
 - 💬 My all projects available on **https://github.com/DineshikaSivapalaraja**
 
 - 📫 How to reach me **99dinuraja@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dineshika-sivapalaraja-b05172233/](https://www.linkedin.com/in/dineshika-sivapalaraja-b05172233/)
 
 - ⚡ Fun fact **I am a lazy programmer**
 
