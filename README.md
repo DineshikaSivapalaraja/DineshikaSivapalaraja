@@ -4,7 +4,6 @@
 **DineshikaSivapalaraja/DineshikaSivapalaraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:  - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a lazy girl. 
 
 - 🔭 I’m currently working as a full-time undergraduate.
 - 🌱 I’m currently learning BSc(Hons) Software Engineering.
@@ -23,7 +22,6 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 
 - 📫 How to reach me **99dinuraja@gmail.com**
 
-- ⚡ Fun fact **I am a lazy programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
