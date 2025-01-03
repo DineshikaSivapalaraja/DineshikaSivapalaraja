@@ -38,6 +38,6 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshikasivapalaraja&show_icons=true&locale=en&layout=compact" alt="dineshikasivapalaraja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshikasivapalaraja&show_icons=true&locale=en" alt="dineshikasivapalaraja" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshikasivapalaraja&show_icons=true&locale=en" alt="dineshikasivapalaraja" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshikasivapalaraja&" alt="dineshikasivapalaraja" /></p> 
