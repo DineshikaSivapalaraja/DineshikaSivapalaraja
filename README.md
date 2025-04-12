@@ -12,9 +12,10 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 - 📫 You can reach me on  www.linkedin.com/in/dineshika-sivapalaraja-b05172233     or    https://medium.com/@dinraja17 -->
 
 <h1 align="center">Hi 👋, I'm Dineshika</h1>
-<h3 align="center">Final year Software Engineering Undergraduate</h3>
+<h3 align="center">BSc(Hons)
+Software Engineering</h3>
 
-- 🌱 I’m currently learning **ML, JavaScript, React and Node JS**
+- 🌱 I’m currently learning **ML, Node JS and Microservices**
 
 - 👨‍💻 Check my portfolio on [https://dineshikasivapalaraja.github.io/My_Portfolio/](https://dineshikasivapalaraja.github.io/My_Portfolio/)
 
