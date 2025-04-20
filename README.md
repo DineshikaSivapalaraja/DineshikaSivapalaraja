@@ -22,8 +22,6 @@ Software Engineering</h3>
 <!--- 💬 My all projects available on **https://github.com/DineshikaSivapalaraja** -->
 
 - 📫 How to reach me **99dinuraja@gmail.com**
-- HackerRank: **https://www.hackerrank.com/99dinuraja**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
