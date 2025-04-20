@@ -15,13 +15,14 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 <h3 align="center">BSc(Hons)
 Software Engineering</h3>
 
-- 🌱 I’m currently learning **ML, Node JS and Microservices**
+- 🌱 I’m currently learning **ML, Spring and Microservices**
 
-- 👨‍💻 Check my portfolio on [https://dineshikasivapalaraja.github.io/My_Portfolio/](https://dineshikasivapalaraja.github.io/My_Portfolio/)
+<!--- 👨‍💻 Check my portfolio on [https://dineshikasivapalaraja.github.io/My_Portfolio/](https://dineshikasivapalaraja.github.io/My_Portfolio/) -->
 
 <!--- 💬 My all projects available on **https://github.com/DineshikaSivapalaraja** -->
 
-- 📫 How to reach me **99dinuraja@gmail.com** 
+- 📫 How to reach me **99dinuraja@gmail.com**
+- HackerRank: **https://www.hackerrank.com/99dinuraja**
 
 
 <h3 align="left">Connect with me:</h3>
