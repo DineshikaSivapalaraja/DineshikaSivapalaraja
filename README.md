@@ -15,7 +15,7 @@ Here are some ideas to get you started:  - 😄 Pronouns: She/Her
 <h3 align="center">BSc(Hons)
 Software Engineering</h3>
 
-- 🌱 I’m currently learning **ML, Spring and Microservices**
+<!-- - 🌱 I’m currently learning **ML, Spring and Microservices** -->
 
 <!--- 👨‍💻 Check my portfolio on [https://dineshikasivapalaraja.github.io/My_Portfolio/](https://dineshikasivapalaraja.github.io/My_Portfolio/) -->
 
