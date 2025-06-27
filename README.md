@@ -34,7 +34,8 @@ Software Engineering</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshikasivapalaraja&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshikasivapalaraja)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshikasivapalaraja) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshikasivapalaraja&" alt="dineshikasivapalaraja" /></p> 
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshikasivapalaraja&show_icons=true&locale=en) -->
 
