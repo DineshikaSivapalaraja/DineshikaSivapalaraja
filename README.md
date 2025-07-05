@@ -39,4 +39,5 @@ Software Engineering</h3>
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshikasivapalaraja&show_icons=true&locale=en) -->
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshikasivapalaraja&show_icons=true&locale=en" alt="dineshikasivapalaraja" /></p>   
 
