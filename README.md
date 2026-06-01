@@ -54,9 +54,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
+<!--<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshikaSivapalaraja&theme=default" alt="GitHub Stats" />
-</p>
+</p> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=DineshikaSivapalaraja&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DineshikaSivapalaraja&theme=default" alt="Stats" />
