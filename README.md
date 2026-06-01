@@ -55,11 +55,12 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshikaSivapalaraja&show_icons=true&hide_border=true&count_private=true&show_rank=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshikaSivapalaraja&theme=default" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshikaSivapalaraja&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DineshikaSivapalaraja&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DineshikaSivapalaraja&theme=default" alt="Top Languages" />
 </p>
 
 <p>
