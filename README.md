@@ -38,17 +38,15 @@
 
 <br/>
 
+<!--
 <h3 align="left">GitHub Stats:</h3>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshikaSivapalaraja&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=DineshikaSivapalaraja&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=DineshikaSivapalaraja&hide_border=true" alt="GitHub Streak" />
